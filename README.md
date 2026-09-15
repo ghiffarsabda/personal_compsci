@@ -54,10 +54,35 @@ Every stage pairs a **Production Skill** with a **Monetization Playbook** and a 
 
 ---
 
-## 📋 The 3 Iron Rules
+## ⚡ The Velocity Mandate: 1 Year (365 Days) Hard Deadline
 
-1. **Zero Out-of-Pocket Rule:** All certification exam vouchers, domain registrations, and cloud hosting costs past the setup phase must be funded exclusively by revenue generated from the skills learned.
-2. **Skin in the Game:** You do not sit for an industry certification until you have earned at least 1.5× the cost of the exam through market work in that specific domain.
-3. **Public Accountability:** Every proof-of-work deliverable must be public: a live domain, a clean open-source repository, an architectural teardown, and verifiable performance/monitoring metrics.
+> **"Speed loves money. Intelligence requires speed."**
+
+This is not a relaxed 4-year academic stroll. It is an aggressive, high-density **1-year (365-day) fast track** executed with uncompromising discipline. 
+
+Deliberate speed compresses feedback loops: the faster you ship to production, the faster the market tests your code, the faster you get paid, and the faster you certify.
+
+### 📅 The 4-Quarter Execution Cadence (90 Days Per Horizon)
+
+Each 90-day sprint is a complete, self-contained **Learn $\to$ Build $\to$ Monetize $\to$ Certify** loop:
+
+```
+[ Days 001 – 090 ] Q1: Modern Full-Stack & Cloud Systems ─────► Earn ≥ $300  ─────► AWS SAA-C03 Passed
+[ Days 091 – 180 ] Q2: DevOps, K8s & Platform Engineering ──► Earn ≥ $600  ─────► CKA Passed
+[ Days 181 – 270 ] Q3: Data Pipelines & Applied AI Systems ──► Earn ≥ $800  ─────► Databricks / GCP PDE Passed
+[ Days 271 – 365 ] Q4: Security Hardening, Scale & Outbound ─► Earn ≥ $1,500 ───► Security+ / OSCP Passed
+```
+
+**By Day 365:** You stand with **4 production systems running live**, **4 recognized gold-standard industry credentials**, verifiable client receipts/bounties, and an undeniable proof-of-work track record that commands elite engineering compensation or independent contract retainers.
+
+---
+
+## 📋 The 4 Iron Rules
+
+1. **The 365-Day Clock:** Every day without code shipped or outreach sent is negative interest. Velocity is a core engineering metric.
+2. **Zero Out-of-Pocket Rule:** All certification exam vouchers, domain registrations, and cloud hosting costs past the setup phase must be funded exclusively by revenue generated from the skills learned.
+3. **Skin in the Game:** You do not sit for an industry certification until you have earned at least 1.5× the cost of the exam through market work in that specific domain.
+4. **Public Accountability:** Every proof-of-work deliverable must be public: a live domain, a clean open-source repository, an architectural teardown, and verifiable performance/monitoring metrics.
+
 
 
