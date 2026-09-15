@@ -77,12 +77,38 @@ Each 90-day sprint is a complete, self-contained **Learn $\to$ Build $\to$ Monet
 
 ---
 
+## 🗂️ The Complete Curriculum & Playbook Index
+
+Everything in this repository is designed as an executable, production-grade operating system:
+
+### 1. The Core 365-Day Curriculum
+- [**Master 365-Day Roadmap (`curriculum/00_master_roadmap_365.md`)**](file:///home/ghiffar-sabda/personal_compsci/curriculum/00_master_roadmap_365.md) — 52-week breakdown, weekly velocity cadence, and milestone checkpoints.
+- [**Phase 1: Systems, Networking & Cloud-Native (`curriculum/01_phase1_systems_networking_cloud.md`)**](file:///home/ghiffar-sabda/personal_compsci/curriculum/01_phase1_systems_networking_cloud.md) — Linux kernel, TCP/IP, Go systems, PostgreSQL internals, AWS architecture, PulseEngine capstone, AWS SAA / CCNA.
+- [**Phase 2: DevOps, Kubernetes & Platform Engineering (`curriculum/02_phase2_devops_k8s_platform.md`)**](file:///home/ghiffar-sabda/personal_compsci/curriculum/02_phase2_devops_k8s_platform.md) — Containers, Terraform IaC, K8s cluster admin, GitOps (ArgoCD), Prometheus/Grafana, CKA & Terraform certs.
+- [**Phase 3: Data Engineering, Big Data & Applied AI (`curriculum/03_phase3_data_engineering_ai.md`)**](file:///home/ghiffar-sabda/personal_compsci/curriculum/03_phase3_data_engineering_ai.md) — dbt, PySpark, Delta Lake Medallion architecture, Kafka streaming, Production RAG, Databricks & Snowflake certs.
+- [**Phase 4: Cybersecurity, DevSecOps & Enterprise Hardening (`curriculum/04_phase4_cybersecurity_devsecops.md`)**](file:///home/ghiffar-sabda/personal_compsci/curriculum/04_phase4_cybersecurity_devsecops.md) — OWASP Top 10, penetration testing, automated DevSecOps CI/CD, Falco runtime security, CompTIA Security+, CKS, OSCP.
+
+### 2. Industry Certifications & Economics
+- [**Diverse Certification Matrix (`certs/certification_matrix.md`)**](file:///home/ghiffar-sabda/personal_compsci/certs/certification_matrix.md) — 12 gold-standard industry credentials (AWS, GCP, CNCF CKA/CKS, Cisco CCNA, Databricks, Snowflake, CompTIA, OffSec OSCP), exam costs, and earning thresholds.
+
+### 3. Monetization Playbooks & Sales Scripts
+- [**Client Acquisition Playbook (`monetization/client_acquisition_playbook.md`)**](file:///home/ghiffar-sabda/personal_compsci/monetization/client_acquisition_playbook.md) — Upwork bidding, cold outbound to funded startups, productized consulting audits, 60/40 capital split.
+- [**Proposal & Outreach Templates (`monetization/proposal_and_outreach_templates.md`)**](file:///home/ghiffar-sabda/personal_compsci/monetization/proposal_and_outreach_templates.md) — Ready-to-deploy Upwork proposals, founder cold emails, 1-page Scope of Work (SOW) agreement.
+- [**Bounties & Micro-SaaS Guide (`monetization/bounty_and_micro_saas_guide.md`)**](file:///home/ghiffar-sabda/personal_compsci/monetization/bounty_and_micro_saas_guide.md) — Open source bounties (Algora, Polar.sh), ethical bug bounties (HackerOne), paid developer writing, and utility APIs.
+
+### 4. Engineering Standards & Obsidian Vault
+- [**Proof-of-Work Quality Rubric (`standards/proof_of_work_rubric.md`)**](file:///home/ghiffar-sabda/personal_compsci/standards/proof_of_work_rubric.md) — The 6 pillars of hireable production projects: RFCs/ADRs, CI/CD, live deployment, telemetry, K6 stress testing, and security hardening.
+- [**Obsidian Engineering Vault Spec (`standards/engineering_vault_spec.md`)**](file:///home/ghiffar-sabda/personal_compsci/standards/engineering_vault_spec.md) — Vault folder structure, ADR templates, daily execution logs, and self-funding financial ledger.
+
+---
+
 ## 📋 The 4 Iron Rules
 
 1. **The 365-Day Clock:** Every day without code shipped or outreach sent is negative interest. Velocity is a core engineering metric.
 2. **Zero Out-of-Pocket Rule:** All certification exam vouchers, domain registrations, and cloud hosting costs past the setup phase must be funded exclusively by revenue generated from the skills learned.
 3. **Skin in the Game:** You do not sit for an industry certification until you have earned at least 1.5× the cost of the exam through market work in that specific domain.
 4. **Public Accountability:** Every proof-of-work deliverable must be public: a live domain, a clean open-source repository, an architectural teardown, and verifiable performance/monitoring metrics.
+
 
 
 
