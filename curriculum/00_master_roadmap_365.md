@@ -1,109 +1,69 @@
-# 00. Master 365-Day Fast-Track Roadmap & Execution Schedule
+# 00. Master 365-Day Roadmap: Cloud Architecture, FinOps & IS Audit
 
-> **"Speed loves money. Intelligence requires speed."**
-> 
-> A non-stop, 52-week operating protocol transforming you from theory-cluttered novice to battle-tested, certified, monetizing systems engineer.
+> **The 52-Week Compounding Journey:** Transitioning from an Accounting background to a Cloud Architecture & IS Audit consultant, culminating in Enterprise Architecture (TOGAF) readiness.
 
 ---
 
-## 🧭 The 365-Day High-Altitude Timeline
+## 🧭 The 365-Day Strategic Horizons
 
 ```
   MONTH 01-03: Q1                 MONTH 04-06: Q2                 MONTH 07-09: Q3                 MONTH 10-12: Q4
 ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐       ┌───────────────────────┐
-│ SYSTEMS, NETWORKING   │       │ DEVOPS, K8s &         │       │ DATA ENGINEERING &    │       │ CYBERSECURITY &       │
-│ & CLOUD SYSTEMS       │       │ PLATFORM ENG          │       │ APPLIED AI PIPELINES  │       │ ENTERPRISE HARDENING  │
+│ CLOUD ARCHITECTURE &  │       │ INFRASTRUCTURE AS     │       │ INFORMATION SYSTEMS   │       │ ENTERPRISE ARCH &     │
+│ CORE NETWORKING       │       │ CODE & CLOUD FINOPS   │       │ AUDIT & SOC 2 / ITGC  │       │ CLOUD GOVERNANCE      │
 ├───────────────────────┤       ├───────────────────────┤       ├───────────────────────┤       ├───────────────────────┤
-│ • Linux & Net Kernel  │       │ • Docker Internals    │       │ • Lakehouse & Spark   │       │ • Threat Modeling     │
-│ • High-Perf Go/Node   │       │ • Kubernetes (CKA)    │       │ • Streaming (Kafka)   │       │ • Web App Pen-Testing │
-│ • Postgres & Redis    │       │ • Terraform / IaC     │       │ • Vector DB & RAG     │       │ • DevSecOps (CKS)     │
-│ • AWS Architecture    │       │ • GitOps & Prometheus │       │ • MLOps & Eval        │       │ • Bug Bounties & OSCP │
+│ • VPCs, Subnets, CIDR │       │ • Terraform Modules   │       │ • SOX 404 ITGC        │       │ • TOGAF 10 ADM Cycle  │
+│ • IAM Least Privilege │       │ • State & DynamoDB    │       │ • SOC 2 Trust Criteria│       │ • Business-IT Mapping │
+│ • High Availability   │       │ • FinOps Unit Econ    │       │ • Access Control Audit│       │ • AWS Security Hub    │
+│ • RDS & Multi-AZ      │       │ • AWS Cost Allocation │       │ • Continuous Policy   │       │ • EA Postgrad Dossier │
 ├───────────────────────┤       ├───────────────────────┤       ├───────────────────────┤       ├───────────────────────┤
-│ EARN: $300 - $600     │       │ EARN: $600 - $1,200   │       │ EARN: $800 - $1,500   │       │ EARN: $1,500 - $3,500 │
-│ CERT: AWS SAA / CCNA  │       │ CERT: CKA + Terraform │       │ CERT: Databricks / SF │       │ CERT: Sec+ / CKS/OSCP │
+│ EARN: $400 USD        │       │ EARN: $800 USD        │       │ EARN: $1,200 USD      │       │ EARN: $2,000 USD      │
+│ CERT: AWS SAA-C03     │       │ CERT: Terraform + FOCP│       │ CERT: ISACA CISA      │       │ CERT: TOGAF 10        │
 └───────────────────────┘       └───────────────────────┘       └───────────────────────┘       └───────────────────────┘
 ```
 
 ---
 
-## ⚡ The Weekly Velocity Operating Rhythm
-
-To maintain relentless speed throughout the 365 days, every single week is structured into a disciplined, high-leverage cadence:
-
-| Day of Week | Primary Focus | Concrete Output / Deliverable |
-| :--- | :--- | :--- |
-| **Monday – Wednesday** | **Core Build & Learn Sprint** | 15–20 hours of focused coding, systems configuration, hands-on lab labs. New features pushed to GitHub. |
-| **Thursday** | **Production Hardening & Testing** | Writing integration tests, running K6 load tests, updating ADR documentation, monitoring metrics. |
-| **Friday** | **Monetization & Client Acquisition** | 3–4 hours of sending targeted pitches on Upwork/Contra, cold emailing startup founders, or auditing open bug bounty scopes. |
-| **Saturday** | **Diagnostic & Certification Drill** | 2–3 hours of timed, high-difficulty exam practice tests (e.g. TutorialDojo, Killer.sh, Boson). |
-| **Sunday** | **Weekly Retrospective & Publishing** | Publish 1 public artifact (technical blog post, LinkedIn teardown, or open-source release). Update financial ledger. |
-
----
-
 ## 📅 Detailed 52-Week Milestone Breakdown
 
-### Quarter 1: Modern Systems, Networking & Cloud Architecture (Weeks 01–13)
-- **Week 01:** Setup local Linux development environment, dotfiles, Git hygiene, and client payment rails (Stripe/Wise/Contra).
-- **Week 02:** Linux Operating System internals: POSIX, systemd, process isolation, signals, memory models, bash scripting.
-- **Week 03:** Computer Networking in Depth: TCP/IP stack, 3-way handshake, DNS propagation, TLS 1.3 handshake, HTTP/2 & HTTP/3.
-- **Week 04:** Systems Programming with Go: Concurrency primitives (goroutines, channels, sync primitives), low memory footprint servers.
-- **Week 05:** Database Internals: PostgreSQL deep dive (B-Trees, WAL, MVCC, transaction isolation levels, indexing strategies, EXPLAIN ANALYZE).
-- **Week 06:** High-Throughput Caching: Redis data structures, distributed locking (Redlock), cache invalidation patterns, pub/sub.
-- **Week 07:** AWS Core Cloud: IAM least privilege, custom VPCs, subnets, NAT gateways, Security Groups, ALB, Auto Scaling.
-- **Week 08:** **Capstone Project Launch:** Distributed Multi-Tenant Task & Webhook Engine with Stripe Metering.
-- **Week 09:** Capstone CI/CD & Cloud Deployment: Automated GitHub Actions pipeline to AWS ECS/Fargate + RDS + ElastiCache.
-- **Week 10:** Observability & Stress Testing: Instrumenting Prometheus metrics, Grafana dashboards, and running 1,000 RPS K6 benchmarks.
-- **Week 11:** **Monetization Sprint 1:** Pitching 10 targeted Upwork/Contra clients (API integration, web scrapers, database query tuning). **Target: Earn ≥ $300.**
-- **Week 12:** Certification Diagnostic Mock Exams (AWS Solutions Architect Associate SAA-C03 / Cisco CCNA).
-- **Week 13:** **Exam Day 1:** Sit and pass **AWS Certified Solutions Architect Associate (SAA-C03)** or **Cisco CCNA**. First badge verified.
+### Quarter 1: Cloud Architecture Foundations & Networking (Weeks 01–13)
+- **Weeks 01–02:** Linux Operating System, Shell scripting, and AWS CLI v2 automation.
+- **Weeks 03–04:** Enterprise Cloud Networking: Custom VPCs, non-overlapping CIDR blocks, Public/Private subnets, Internet Gateways, NAT Gateways, Route Tables, and DNS (Route 53).
+- **Weeks 05–06:** Identity & Access Management (IAM): Role-based access control (RBAC), least privilege policy design, permission boundaries, and MFA enforcement.
+- **Weeks 07–08:** Compute & Resilient Data: Application Load Balancers (ALB), Auto Scaling Groups, Amazon RDS PostgreSQL Multi-AZ with read replicas, and S3 lifecycle tiering.
+- **Weeks 09–10:** **Capstone Project Launch (AetherCloud):** Multi-tier AWS VPC platform deployed with high availability, automated database backups, and health check alerts.
+- **Weeks 11–12:** **Monetization Sprint 1:** Pitching 5 startup founders on "AWS Architecture & Resilience Reviews" ($350 – $500).
+- **Week 13:** **Exam Day 1:** Sit and pass **AWS Certified Solutions Architect – Associate (SAA-C03)**.
 
 ---
 
-### Quarter 2: DevOps, Kubernetes & Platform Engineering (Weeks 14–26)
-- **Week 14:** Advanced Containerization: Multi-stage builds, rootless containers, distroless images, Docker daemon debugging.
-- **Week 15:** Infrastructure-as-Code with Terraform: State management, remote S3 backends with DynamoDB locks, modular architecture.
-- **Week 16:** Kubernetes Core Architecture: Control plane (kube-apiserver, etcd, controller-manager, scheduler) vs worker nodes (kubelet, kube-proxy, CRI).
-- **Week 17:** Kubernetes Objects & Workloads: Pod lifecycle, Deployments, StatefulSets, DaemonSets, Jobs, ConfigMaps, Secrets.
-- **Week 18:** Kubernetes Networking & Storage: CNI plugins (Calico/Cilium), Ingress controllers, Services (ClusterIP, NodePort, LoadBalancer), CSI & PV/PVCs.
-- **Week 19:** Cluster Administration & Security: RBAC roles/bindings, ServiceAccounts, NetworkPolicies, Admission Controllers.
-- **Week 20:** GitOps Engine: ArgoCD / FluxCD installation, automated synchronization, Canary releases with Argo Rollouts.
-- **Week 21:** **Capstone Project Launch:** Zero-Downtime Multi-Cluster GitOps Platform with Automated Canary Deployments & OpenTelemetry.
-- **Week 22:** **Monetization Sprint 2:** Cloud cost optimization audits for startups, Dockerizing legacy codebases, automated CI/CD workflows. **Target: Earn ≥ $600.**
-- **Week 23:** CKA Killer.sh Simulation 1 & Terraform Associate Drill: 100% hands-on terminal command-line speed training.
-- **Week 24:** **Exam Day 2A:** Pass **HashiCorp Certified Terraform Associate (003)**.
-- **Week 25:** CKA Killer.sh Simulation 2: Achieving $\ge 90\%$ under time constraints.
-- **Week 26:** **Exam Day 2B:** Sit and pass **Certified Kubernetes Administrator (CKA)**. Second major credential secured.
+### Quarter 2: Infrastructure as Code (IaC) & Cloud FinOps (Weeks 14–26)
+- **Weeks 14–15:** Infrastructure as Code with Terraform: HCL syntax, resource provisioning, variables, outputs, and local execution.
+- **Weeks 16–17:** Enterprise Terraform: Remote state storage (S3), distributed state locking (DynamoDB), reusable child modules, and multi-environment workspaces (dev, staging, prod).
+- **Weeks 18–19:** Cloud FinOps Foundations: The FinOps Lifecycle (Inform, Optimize, Operate), cloud billing data analysis (AWS Cost & Usage Report - CUR), and cost allocation tagging.
+- **Weeks 20–21:** Rate & Usage Optimization: Rightsizing compute instances, Savings Plans vs Reserved Instances, unattached EBS volume reclamation, and S3 storage classes.
+- **Weeks 22–23:** **Capstone Project Launch (AetherFinOps):** Refactoring AetherCloud into 100% modular Terraform with automated Infracost CI/CD budget checks and cost-center tags.
+- **Weeks 24–25:** **Monetization Sprint 2:** Selling "Startup Cloud Cost Optimization Sprints" ($600 – $1,000) guaranteeing $\ge 20\%$ monthly bill savings.
+- **Week 26:** **Exam Days 2A & 2B:** Pass **HashiCorp Terraform Associate** and **FinOps Certified Practitioner (FOCP)**.
 
 ---
 
-### Quarter 3: Data Engineering, Big Data & Applied AI Systems (Weeks 27–39)
-- **Week 27:** Modern Data Warehousing Architecture: OLTP vs OLAP, Columnar storage (Parquet/ORC), Snowflake vs BigQuery vs ClickHouse.
-- **Week 28:** Advanced SQL & Transformation: Window functions, CTEs, dbt (data build tool), data modeling (Kimball Star Schema).
-- **Week 29:** Distributed Data Processing: Apache Spark core concepts, PySpark DataFrames, partitions, shuffle operations, memory management.
-- **Week 30:** Lakehouse Architecture: Delta Lake / Apache Iceberg (ACID transactions, time travel, schema enforcement).
-- **Week 31:** Data Orchestration: Apache Airflow & Dagster (DAG authoring, sensors, dynamic tasks, backfilling, retries).
-- **Week 32:** Real-Time Streaming: Apache Kafka / Redpanda (topics, partitions, consumer groups, offset management).
-- **Week 33:** Applied Vector Databases & Embeddings: HNSW indexing, pgvector, Pinecone/Qdrant, chunking strategies.
-- **Week 34:** Production RAG & AI Agent Engineering: LangChain / LlamaIndex / DSPy, semantic routing, tool calling, hallucination evaluation (Ragas).
-- **Week 35:** **Capstone Project Launch:** Real-time Streaming Lakehouse & Enterprise Multimodal RAG Assistant with Guardrails.
-- **Week 36:** **Monetization Sprint 3:** Custom corporate internal document RAG chatbots, automated data extraction/cleansing pipelines. **Target: Earn ≥ $800.**
-- **Week 37:** Databricks / Snowflake / GCP ML Practice Exams & Technical Case Studies.
-- **Week 38:** **Exam Day 3:** Sit and pass **Databricks Certified Data Engineer Associate/Professional** or **Snowflake SnowPro Core**.
-- **Week 39:** Fast-Track Catch-Up, Revenue Consolidation, and Quarter 4 Planning.
+### Quarter 3: Information Systems Audit, ITGC & SOC 2 Compliance (Weeks 27–39)
+- **Weeks 27–28:** IT General Controls (ITGC) & SOX 404: Access controls, change management, computer operations, segregation of duties, and audit evidence collection.
+- **Weeks 29–30:** SOC 2 Type II Framework: Trust Services Criteria (Security, Availability, Processing Integrity, Confidentiality, Privacy) and vendor risk management.
+- **Weeks 31–32:** Cloud Compliance Automation: AWS Config conformance packs, AWS CloudTrail immutable log auditing, GuardDuty threat detection, and Open Policy Agent (OPA).
+- **Weeks 33–34:** Identity Governance: Single Sign-On (SSO), SAML 2.0 / OIDC federation, quarterly access review automation, and least-privilege IAM audits.
+- **Weeks 35–36:** **Capstone Project Launch (AetherAudit):** Automated Cloud Compliance Engine continuously testing AetherCloud against SOC 2 controls and generating audit-ready markdown evidence.
+- **Weeks 37–38:** **Monetization Sprint 3:** Pre-Audit SOC 2 & ITGC Readiness Assessments for B2B startups closing enterprise deals ($1,000 – $2,000).
+- **Week 39:** **Exam Day 3:** Sit and pass **ISACA CISA (Certified Information Systems Auditor)**.
 
 ---
 
-### Quarter 4: Cybersecurity, DevSecOps & Enterprise Architecture (Weeks 40–52)
-- **Week 40:** Threat Modeling & Defense-in-Depth: STRIDE framework, zero-trust architecture, cryptosystems (RSA, ECC, AES-GCM).
-- **Week 41:** Web Application Penetration Testing: OWASP Top 10 (Broken Object Level Auth, SSRF, SQLi, XSS, CSRF, IDOR).
-- **Week 42:** Hands-on Exploitation Lab: Burp Suite Professional workflows, fuzzing, token tampering, parameter pollution.
-- **Week 43:** Container & Cloud Security: Trivy, Falco runtime anomaly detection, CIS benchmarks for Linux & Kubernetes.
-- **Week 44:** Network Security & Active Directory Basics: Nmap, Wireshark, Kerberos authentication, lateral movement vectors.
-- **Week 45:** DevSecOps Automation: Integrating SAST (Semgrep), DAST (OWASP ZAP), and secret scanning into GitHub Actions pipelines.
-- **Week 46:** **Capstone Project Launch:** Automated DevSecOps Audit Platform + Comprehensive Penetration Testing Report of a Vulnerable Target.
-- **Week 47:** **Monetization Sprint 4:** Bug Bounty Hunting on HackerOne/Bugcrowd, smart contract / web security vulnerability reviews for startups. **Target: Earn ≥ $1,500.**
-- **Week 48:** CompTIA Security+ / CKS Diagnostic Mock Exams.
-- **Week 49:** **Exam Day 4:** Sit and pass **CompTIA Security+ (SY0-701)** or **Certified Kubernetes Security Specialist (CKS)**.
-- **Week 50:** Advanced Track Expansion: Optional deep dive into OffSec OSCP labs or GCP Professional Cloud Architect.
-- **Week 51:** Master Portfolio Consolidation: Finalizing live production URLs, case studies, video walkthroughs, and client testimonial deck.
-- **Week 52:** **Graduation & Market Launch:** The 365-day deadline closes. You possess 4 live production systems, 4–5 elite vendor certifications, verified client receipts, and a commanding presence ready for senior roles or $100+/hr contracting.
+### Quarter 4: Enterprise Architecture (TOGAF) & Cloud Governance (Weeks 40–52)
+- **Weeks 40–42:** The Open Group TOGAF® 10 Standard: The Architecture Development Method (ADM Phases A through H), Architecture Content Framework, and Enterprise Continuum.
+- **Weeks 43–44:** Business & Information Systems Architecture: Capability mapping, business process alignment, technical debt evaluation, and CapEx/OpEx financial forecasting for IT.
+- **Weeks 45–46:** Cloud Security Governance: Defense-in-depth, AWS Security Hub CIS benchmarks, zero-trust network architecture, and data residency compliance (GDPR / HIPAA).
+- **Weeks 47–48:** **Capstone Project Launch (AetherEnterprise):** Comprehensive Enterprise Architecture & Cloud Governance Dossier aligned with TOGAF 10 and CISA audit controls.
+- **Weeks 49–50:** **Monetization Sprint 4:** High-Ticket Enterprise Architecture & Governance blueprints for mid-market companies ($1,500 – $3,500).
+- **Week 51:** **Exam Day 4:** Sit and pass **TOGAF 10 Foundation & Practitioner**.
+- **Week 52:** **Postgraduate & Career Launch:** Submission of your portfolio dossier to top Enterprise Architecture postgraduate programs, Big 4 advisory practices, or corporate EA director roles.

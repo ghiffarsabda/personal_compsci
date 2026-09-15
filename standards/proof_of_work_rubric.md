@@ -85,15 +85,14 @@ Every capstone project submitted in this curriculum must pass this rigorous rubr
 
 ---
 
-## 🎥 The Public Presentation Standard
+---
 
-For every capstone Proof-of-Work project, create and publish:
-1. **The 5-Minute Technical Teardown Video:** (Recorded on Loom or published to YouTube)
-   - Do NOT demo basic UI buttons.
-   - Walk through the architectural diagram.
-   - Show the terminal logs during a simulated server crash and demonstrate how the cluster recovers.
-   - Run the K6 load test script live and explain the p99 latency curve.
-2. **The Engineering Case Study Blog Post:**
-   - Published on Dev.to, Hashnode, or personal domain.
-   - Titled: *"How I Engineered a Fault-Tolerant [System Name] Handling 1,500 RPS on AWS for <$15/Month"*.
-   - Include code snippets, benchmark screenshots, and lessons learned.
+## 🏛️ The Aether Compounding Suite (Your 365-Day Portfolio)
+
+Instead of 4 random, disconnected toy projects, you build and compound a single enterprise platform:
+
+1. **Q1: AetherCloud** — Multi-AZ AWS infrastructure, custom VPC, private database subnets, ALB, multi-AZ RDS with automated failover.
+2. **Q2: AetherFinOps** — Full Terraform modularization of AetherCloud + Infracost CI/CD cost checks + AWS Cost Allocation tag validation rules.
+3. **Q3: AetherAudit** — Continuous Cloud Compliance Engine evaluating AetherCloud against AICPA SOC 2 Type II and SOX 404 ITGC controls via AWS Config and OPA.
+4. **Q4: AetherEnterprise** — Publication-grade TOGAF 10 Enterprise Architecture Blueprint modeling business capabilities, cloud transition roadmap, and 3-year financial TCO forecast.
+
